@@ -1,0 +1,10 @@
+<resources>
+    <color name="blue_primary">#0B4F7C</color>
+    <color name="blue_dark">#063653</color>
+    <color name="blue_light">#EAF5FB</color>
+    <color name="teal">#0C8B8B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#153047</color>
+    <color name="text_muted">#6C7A89</color>
+    <color name="bg">#F5F8FA</color>
+</resources>
