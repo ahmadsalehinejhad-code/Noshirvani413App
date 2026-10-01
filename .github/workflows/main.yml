@@ -20,8 +20,8 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: نصب Android SDK
-        uses: android-actions/setup-android@v3
+      - name: آماده‌سازی Gradle
+        uses: gradle/actions/setup-gradle@v4
 
       - name: ساخت APK
         run: |
